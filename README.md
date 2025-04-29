@@ -8,7 +8,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 ---
 
 ## 🎓 Education
-- **[BS]**, [Computer Education] (GPA: 4.43/4.5) **(Top 3%)**
+- **[BS]**, [Computer Education] (GPA: 4.43/4.5) **(Top 3%)**  
   Sungkyunkwan University, (2024.3 ~ 2026.2)
 - **[BS]**, [Computer Information]  (GPA: 4.32/4.5) **(Magna Cum Laude)**  
   [JEI University], (2019.3 ~ 2021.2)
