@@ -35,8 +35,9 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
 
 
 
-Github: https://github.com/chan1031/BAG  
-Paper: 
+**Github: https://github.com/chan1031/BAG**    
+**Paper: [KCC.pdf](https://github.com/user-attachments/files/19951182/KCC.pdf)**  
+
 
 ### **[Stealth X-ADV]** (2024.10 ~ Present)  
 Stealth X-ADV is an adversarial attack technique designed to target AI-based X-ray object detectors deployed in airports and seaports. In X-ray imaging, traditional adversarial attack methods based on texture or color manipulation are ineffective. Instead, adversarial objects must be crafted by manipulating tensors that represent the vertices of the object structure. Although a prior method, X-ADV (https://arxiv.org/abs/2302.09491), has been proposed, it faces the limitation that the generated adversarial objects are easily noticeable.
