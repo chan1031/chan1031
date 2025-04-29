@@ -11,7 +11,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 - **[BS]**, [Computer Education] (GPA: 4.43/4.5) **(Top 3%)**  
   Sungkyunkwan University, (2024.3 ~ 2026.2)
 - **[AS]**, [Computer Information]  (GPA: 4.32/4.5) **(Magna Cum Laude)**  
-  [JEI University], (2019.3 ~ 2021.2)
+  JEI University, (2019.3 ~ 2021.2)
 
 ---
 
@@ -42,6 +42,10 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
 ### **[Stealth X-ADV]** (2024.10 ~ Present)  
 Stealth X-ADV is an adversarial attack technique designed to target AI-based X-ray object detectors deployed in airports and seaports. In X-ray imaging, traditional adversarial attack methods based on texture or color manipulation are ineffective. Instead, adversarial objects must be crafted by manipulating tensors that represent the vertices of the object structure. Although a prior method, X-ADV (https://arxiv.org/abs/2302.09491), has been proposed, it faces the limitation that the generated adversarial objects are easily noticeable.
 To address this, our project investigates whether it is possible to enhance the stealthiness of adversarial objects. Specifically, we aim to attack X-ray object detectors more covertly by using everyday items, such as keys, to create adversarial examples that blend naturally into their surroundings.  
+![image](https://github.com/user-attachments/assets/a5dc27bc-968c-44d9-9395-7a157e69a6bd)  
+
+
+
 Github: https://github.com/chan1031/X-adv2
 
 ### **[SKKU LLM]** (2025.3 ~ Present)  
@@ -54,7 +58,9 @@ Step 2: Fine-tuning
 We fine-tune the base model to fit the specific needs of SKKU. To enable efficient training, we apply FP8 quantization and LoRA (Low-Rank Adaptation) techniques during fine-tuning.  
   
 Step 3: Inference Optimization  
-For real-world deployment, fast inference speed is essential. We study lightweight optimization techniques to accelerate inference while operating within limited computational resources.    
+For real-world deployment, fast inference speed is essential. We study lightweight optimization techniques to accelerate inference while operating within limited computational resources.  
+![image](https://github.com/user-attachments/assets/f869d618-a23d-43c1-a913-9ff67eb781f6)  
+
 Github: https://github.com/chan1031/skku_sLLM
 
 ---
