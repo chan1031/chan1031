@@ -27,16 +27,25 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
 Github: https://github.com/chan1031/BAG  
 Paper: 
 
-#**[Stealth X-ADV]** (2024.10 ~ Present)  
+# **[Stealth X-ADV]** (2024.10 ~ Present)  
 Stealth X-ADV is an adversarial attack technique designed to target AI-based X-ray object detectors deployed in airports and seaports. In X-ray imaging, traditional adversarial attack methods based on texture or color manipulation are ineffective. Instead, adversarial objects must be crafted by manipulating tensors that represent the vertices of the object structure. Although a prior method, X-ADV (https://arxiv.org/abs/2302.09491), has been proposed, it faces the limitation that the generated adversarial objects are easily noticeable.
 To address this, our project investigates whether it is possible to enhance the stealthiness of adversarial objects. Specifically, we aim to attack X-ray object detectors more covertly by using everyday items, such as keys, to create adversarial examples that blend naturally into their surroundings.  
 Github: https://github.com/chan1031/X-adv2
 
-**[SKKU LLM]** (2025.3 ~ Present)  
+# **[SKKU LLM]** (2025.3 ~ Present)  
+SKKU LLM is a large language model (LLM) specialized for Sungkyunkwan University (SKKU). As LLM technology continues to advance, domain-specific models such as sLLMs (specialized LLMs) are becoming increasingly important. In this project, we aim to fine-tune the open-ko-llama-8B model to develop an SKKU-specific LLM.  
+
+Step 1: Crawling  
+We crawl all publicly available articles from www.skku.edu using a Depth-First Search (DFS) algorithm. After crawling, we preprocess the collected data to remove unnecessary information. Then, we use a GPT API to transform the data into a QA dataset format suitable for training.  
+Step 2: Fine-tuning  
+We fine-tune the base model to fit the specific needs of SKKU. To enable efficient training, we apply FP8 quantization and LoRA (Low-Rank Adaptation) techniques during fine-tuning.  
+Step 3: Inference Optimization  
+For real-world deployment, fast inference speed is essential. We study lightweight optimization techniques to accelerate inference while operating within limited computational resources.    
+Github: https://github.com/chan1031/skku_sLLM
 
 ---
 
-## 🏆 Awards[제5장_조직론(5-1)_1~3절.pdf](https://github.com/user-attachments/files/19950771/5._.5-1._1.3.pdf)
+## 🏆 Awards
 
 - **[Award Title]**  
   - Awarded by: [Organization Name]
