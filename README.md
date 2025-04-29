@@ -21,7 +21,7 @@
 
 ---
 ## 💻 Project  
-#**[BAG: BERT-Attention GNN] (KCC 2025 under review)**  
+# **[BAG: BERT-Attention GNN] (KCC 2025 under review)**  
 I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detect illegal gambling websites by combining the text and structural information of HTML tags. The proposed model analyzes the text of each HTML tag using BERT to generate an illegality score, which is then incorporated into the attention operations of a GAT to enhance the information from important nodes. Additionally, a Weighted Pooling technique is introduced to ensure that nodes containing illegal keywords contribute more significantly to the final prediction. Experimental results using HTML data from both illegal gambling and normal websites demonstrate excellent performance, achieving an accuracy of 0.89. Further ablation studies validate that the BERT-Attention mechanism significantly contributes to the model’s performance improvement.  
 ![Picture1 copy](https://github.com/user-attachments/assets/ec974d53-4850-4cac-9c66-f378be012423)
 Github: https://github.com/chan1031/BAG  
