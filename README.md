@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sechan Lee] # [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/se-chan-lee-6b168b224/))
+# 👋 Hi, I'm [Sechan Lee] [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/se-chan-lee-6b168b224/))
 
 I am currently in my fourth year of undergraduate studies in Computer Education at Sungkyunkwan University.  
 I also participating in undergraduate research student in **swlab**(Prof.Min https://swlab.skku.edu/sw/index.do) for the past year.
