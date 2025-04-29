@@ -19,7 +19,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 - **Energy Efficient DeepLearning**
 - **LLM Quantization, Distillation**
 - Adversarial Attack
-- **Anything about AI!**
+- **Anything about AI**
 
 ---
 ## 💻 Project  
