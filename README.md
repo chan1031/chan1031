@@ -64,26 +64,3 @@ For real-world deployment, fast inference speed is essential. We study lightweig
 Github: https://github.com/chan1031/skku_sLLM
 
 ---
-
-## 🏆 Awards
-
-- **[Award Title]**  
-  - Awarded by: [Organization Name]
-  - Year: [Year]
-  - Description: [Brief description if needed]
-
-- **[Another Award Title]**  
-  - Awarded by: [Organization Name]
-  - Year: [Year]
-  - Description: [Optional short note]
-
----
-
----
-
-## 📄 Publication
-- **[BAG:A hybrid “BERT-Attention GNN“ model for Illegal Site Detection from HTML ] (Under Review)**  
-  _[Authors]_  
-  *[KCC 한국정보과학회]*, [2025]  
-
----
