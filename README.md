@@ -41,9 +41,11 @@ Github: https://github.com/chan1031/X-adv2
 SKKU LLM is a large language model (LLM) specialized for Sungkyunkwan University (SKKU). As LLM technology continues to advance, domain-specific models such as sLLMs (specialized LLMs) are becoming increasingly important. In this project, we aim to fine-tune the open-ko-llama-8B model to develop an SKKU-specific LLM.  
 
 Step 1: Crawling  
-We crawl all publicly available articles from www.skku.edu using a Depth-First Search (DFS) algorithm. After crawling, we preprocess the collected data to remove unnecessary information. Then, we use a GPT API to transform the data into a QA dataset format suitable for training.  
+We crawl all publicly available articles from www.skku.edu using a Depth-First Search (DFS) algorithm. After crawling, we preprocess the collected data to remove unnecessary information. Then, we use a GPT API to transform the data into a QA dataset format suitable for training. 
+     
 Step 2: Fine-tuning  
 We fine-tune the base model to fit the specific needs of SKKU. To enable efficient training, we apply FP8 quantization and LoRA (Low-Rank Adaptation) techniques during fine-tuning.  
+  
 Step 3: Inference Optimization  
 For real-world deployment, fast inference speed is essential. We study lightweight optimization techniques to accelerate inference while operating within limited computational resources.    
 Github: https://github.com/chan1031/skku_sLLM
