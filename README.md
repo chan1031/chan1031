@@ -16,7 +16,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 ---
 
 ## 🔬 Research Interest
-- **Power Efficient DeepLearning**
+- **Energy Efficient DeepLearning**
 - **LLM Quantization, Distillation**
 - Adversarial Attack
 - **Anything about AI!**
