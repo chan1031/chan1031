@@ -92,6 +92,6 @@ We apply our newly developed BAG (BERT-Attention GNN) architecture to effectivel
 <div align="center">
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/e258c7f3-6868-4539-a3f1-440ee5aca357" />
 </div>  
-
 Github: https://github.com/skku-swlab/illegal_gambling-detector (Private) 
+
 ---
