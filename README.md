@@ -26,7 +26,8 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
 <div align="center">
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/4e44aa1d-d0ee-4af0-bd24-9e61eb270a67" />
 </div>
-![Picture1 copy](https://github.com/user-attachments/assets/614f8e1f-d29c-46fd-837c-abd8ee06b520)
+![Picture1 copy](https://github.com/user-attachments/assets/4b6f2e99-45ec-4f49-a1b9-85a77b99f34d)
+
 
 Github: https://github.com/chan1031/BAG  
 Paper: 
