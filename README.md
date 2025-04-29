@@ -89,7 +89,9 @@ Illegal gambling websites tend to share visually similar design elements. We cla
 2. HTML Structure Analysis  
 We apply our newly developed BAG (BERT-Attention GNN) architecture to effectively analyze and classify the HTML structure of websites for illegal gambling indicators.  
 
-![image](https://github.com/user-attachments/assets/e258c7f3-6868-4539-a3f1-440ee5aca357)
+<div align="center">
+  <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/e258c7f3-6868-4539-a3f1-440ee5aca357" />
+</div>  
 
 
 **Github: https://github.com/skku-swlab/illegal_gambling-detector (Private) **
