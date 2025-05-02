@@ -40,7 +40,8 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
 </div>  
 
 **Github: https://github.com/chan1031/BAG**    
-**Paper: [KCC.pdf](https://github.com/user-attachments/files/19951182/KCC.pdf)**  
+**Paper: [KCC.pdf](https://github.com/user-attachments/files/20015436/KCC.pdf)**  
+
 
 
 ### **[Stealth X-ADV]** (2024.10 ~ Present)  
