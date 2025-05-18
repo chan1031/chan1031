@@ -51,7 +51,7 @@ To address this, our project investigates whether it is possible to enhance the 
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/a5dc27bc-968c-44d9-9395-7a157e69a6bd" />
 </div>  
 
-**Github: https://github.com/chan1031/X-adv2**
+**Github: https://github.com/chan1031/Stealth_X-adv**
 
 ### **[SKKU-LLM]** (2025.3 ~ Present)  
 SKKU LLM is a large language model (LLM) specialized for Sungkyunkwan University (SKKU). As LLM technology continues to advance, domain-specific models such as sLLMs (specialized LLMs) are becoming increasingly important. In this project, we aim to fine-tune the **Llama-3-Open-Ko-8B** model to develop an SKKU-specific LLM.  
