@@ -24,10 +24,10 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
   **Github: https://github.com/chan1031/paper-implementation**
 
 ## 🔬 Research Interest
-- **Energy Efficient DeepLearning**
-- **LLM Quantization, Distillation**
+- Saftey AI
 - Adversarial Attack
-- **Anything about AI**
+- Safety Benchmark
+- AI Kill-Switch
 
 ---
 ## 💻 Project  
