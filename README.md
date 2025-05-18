@@ -60,7 +60,7 @@ SKKU LLM is a large language model (LLM) specialized for Sungkyunkwan University
 We crawl all publicly available articles from www.skku.edu using a Depth-First Search (DFS) algorithm. After crawling, we preprocess the collected data to remove unnecessary information. Then, we use a GPT API to transform the data into a QA dataset format suitable for training. 
      
 **Step 2: Fine-tuning**    
-We fine-tune the base model to fit the specific needs of SKKU. To enable efficient training, we apply FP8 quantization and LoRA (Low-Rank Adaptation) techniques during fine-tuning.  
+We fine-tune the base model to fit the specific needs of SKKU. To enable efficient training, we apply FP4 quantization and LoRA (Low-Rank Adaptation) techniques during fine-tuning.  
   
 **Step 3: Inference Optimization**    
 For real-world deployment, fast inference speed is essential. We study lightweight optimization techniques to accelerate inference while operating within limited computational resources.  
