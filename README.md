@@ -16,9 +16,8 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 
 ---
 ## 💼 Experience
-- **swlab** (prof. Moohong Min) (https://swlab.skku.edu/sw/index.do) [2024.7 ~ Present]   
-  **Undergraduate Students**  
-  Research Area: AI Development, Adversarial Attack  
+- **swlab** (prof. Moohong Min) **Undergraduate Students** (https://swlab.skku.edu/sw/index.do) [2024.7 ~ Present]   
+  Research Area: Safety AI, Adversarial Attack, Safety Benchmark  
 - **TA**, Basic and Applications of AI  [2024.9 ~ Present]
   In the "Basic and Applications of AI" course, I covered an introduction to the Transformer architecture and its implementation in code.  
 
