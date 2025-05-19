@@ -24,7 +24,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
   **Github: https://github.com/chan1031/paper-implementation**
 
 ## 🔬 Research Interest  
-I can enjoy anything about AI, CS    
+I can enjoy anything about AI, CS  
 - Saftey AI
 - Adversarial Attack
 - Safety Benchmark
