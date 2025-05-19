@@ -42,7 +42,7 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
 </div>  
 
 
-### **2.Stealth X-ADV** 
+### ** 2.Stealth X-ADV** 
 **Github: https://github.com/chan1031/Stealth_X-adv**  
 Stealth X-ADV is an adversarial attack technique designed to target AI-based X-ray object detectors deployed in airports and seaports. In X-ray imaging, traditional adversarial attack methods based on texture or color manipulation are ineffective. Instead, adversarial objects must be crafted by manipulating tensors that represent the vertices of the object structure. Although a prior method, X-ADV (https://arxiv.org/abs/2302.09491), has been proposed, it faces the limitation that the generated adversarial objects are easily noticeable.
 To address this, our project investigates whether it is possible to enhance the stealthiness of adversarial objects. Specifically, we aim to attack X-ray object detectors more covertly by using everyday items, such as keys, to create adversarial examples that blend naturally into their surroundings.  
@@ -50,7 +50,7 @@ To address this, our project investigates whether it is possible to enhance the 
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/a5dc27bc-968c-44d9-9395-7a157e69a6bd" />
 </div>  
 
-### **3.SKKU-LLM**  
+### ** 3.SKKU-LLM**  
 **Github: https://github.com/chan1031/skku_sLLM**  
 SKKU LLM is a large language model (LLM) specialized for Sungkyunkwan University (SKKU). As LLM technology continues to advance, domain-specific models such as sLLMs (specialized LLMs) are becoming increasingly important. In this project, we aim to fine-tune the **Llama-3-Open-Ko-8B** model to develop an SKKU-specific LLM.  
 
@@ -67,7 +67,7 @@ For real-world deployment, fast inference speed is essential. We study lightweig
 </div>  
 
 
-### **4.Tracking Illegal Gambling Website**  [Selected 2025-1 SKKU CO-Deeplearning]  
+### ** 4.Tracking Illegal Gambling Website**  [Selected 2025-1 SKKU CO-Deeplearning]  
 **Github: https://github.com/skku-swlab/illegal_gambling-detector**  
 The operation of illegal gambling websites poses a serious threat to our society.  
 However, manually identifying and blocking these sites is highly impractical.  
