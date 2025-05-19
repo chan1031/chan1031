@@ -32,6 +32,8 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 ---
 ## 💻 Project  
 ### **[BAG: BERT-Attention GNN] (KCC 2025 under review)**  
+**Github: https://github.com/chan1031/BAG**    
+**Paper: [KCC.pdf](https://github.com/user-attachments/files/20015436/KCC.pdf)**  
 I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detect illegal gambling websites by combining the text and structural information of HTML tags. The proposed model analyzes the text of each HTML tag using BERT to generate an illegality score, which is then incorporated into the attention operations of a GAT to enhance the information from important nodes. Additionally, a Weighted Pooling technique is introduced to ensure that nodes containing illegal keywords contribute more significantly to the final prediction. Experimental results using HTML data from both illegal gambling and normal websites demonstrate excellent performance, achieving an accuracy of 0.89. Further ablation studies validate that the BERT-Attention mechanism significantly contributes to the model’s performance improvement.  
 
 <div align="center">
@@ -39,21 +41,19 @@ I development a hybrid model, **BAG (BERT-Attention GNN)**, to effectively detec
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/4e44aa1d-d0ee-4af0-bd24-9e61eb270a67" />
 </div>  
 
-**Github: https://github.com/chan1031/BAG**    
-**Paper: [KCC.pdf](https://github.com/user-attachments/files/20015436/KCC.pdf)**  
-
-
 
 ### **[Stealth X-ADV]** (2024.10 ~ Present)  
+**Github: https://github.com/chan1031/Stealth_X-adv**  
 Stealth X-ADV is an adversarial attack technique designed to target AI-based X-ray object detectors deployed in airports and seaports. In X-ray imaging, traditional adversarial attack methods based on texture or color manipulation are ineffective. Instead, adversarial objects must be crafted by manipulating tensors that represent the vertices of the object structure. Although a prior method, X-ADV (https://arxiv.org/abs/2302.09491), has been proposed, it faces the limitation that the generated adversarial objects are easily noticeable.
 To address this, our project investigates whether it is possible to enhance the stealthiness of adversarial objects. Specifically, we aim to attack X-ray object detectors more covertly by using everyday items, such as keys, to create adversarial examples that blend naturally into their surroundings.  
 <div align="center">
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/a5dc27bc-968c-44d9-9395-7a157e69a6bd" />
 </div>  
 
-**Github: https://github.com/chan1031/Stealth_X-adv**
+
 
 ### **[SKKU-LLM]** (2025.3 ~ Present)  
+**Github: https://github.com/chan1031/skku_sLLM**  
 SKKU LLM is a large language model (LLM) specialized for Sungkyunkwan University (SKKU). As LLM technology continues to advance, domain-specific models such as sLLMs (specialized LLMs) are becoming increasingly important. In this project, we aim to fine-tune the **Llama-3-Open-Ko-8B** model to develop an SKKU-specific LLM.  
 
 **Step 1: Crawling**  
@@ -68,9 +68,9 @@ For real-world deployment, fast inference speed is essential. We study lightweig
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/f869d618-a23d-43c1-a913-9ff67eb781f6" />
 </div>  
 
-**Github: https://github.com/chan1031/skku_sLLM**
 
-### **[Tracking Illegal Gambling Website]** (2024.10 ~ 2025.7)  **[Selected 2025-1 SKKU CO-Deeplearning]** 
+### **[Tracking Illegal Gambling Website]** (2024.10 ~ 2025.7)  **[Selected 2025-1 SKKU CO-Deeplearning]**  
+** Github: https://github.com/skku-swlab/illegal_gambling-detector **
 The operation of illegal gambling websites poses a serious threat to our society.  
 However, manually identifying and blocking these sites is highly impractical.  
 To address this challenge, our SWLab has developed an AI-powered tracking system for detecting illegal gambling websites.  
@@ -106,5 +106,4 @@ We apply our newly developed BAG (BERT-Attention GNN) architecture to effectivel
 <div align="center">
   <img width="480" alt="Screenshot 2025-04-29 at 10 48 46 AM" src="https://github.com/user-attachments/assets/e258c7f3-6868-4539-a3f1-440ee5aca357" />
 </div>  
-Github: https://github.com/skku-swlab/illegal_gambling-detector 
----
+
