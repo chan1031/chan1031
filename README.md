@@ -31,6 +31,21 @@ I can enjoy anything about AI, CS
 - AI Kill-Switch
 
 ---
+
+---
+
+## 🎓 Publication
+- BAG: A hybrid “BERT-Attention GNN“ model for Illegal Site Detection from HTML / KCC 2025
+(Under Review) / First author  
+Paper: [KCC.pdf](https://github.com/user-attachments/files/20015436/KCC.pdf)  
+- TriModal: A Multimodal Framework for Detecting Redirection to Illegal OnlineGamblingSites / DFRWS APAC 2025 (Under Review) / Second author
+Paper:[DFRWS2025.pdf](https://github.com/user-attachments/files/20284293/DFRWS2025.pdf)  
+- Analysis of Deepfake Detection Models Against Deepfake Crimes / Mobisec 2024 / First author  
+Paper: [Mobisec_Analysis of Deepfake Detection Models Against Deepfake Crimes.pdf](https://github.com/user-attachments/files/20284494/Mobisec_Analysis.of.Deepfake.Detection.Models.Against.Deepfake.Crimes.pdf)  
+- Malware Attacks Targeting Industrial Facilities and Response Strategies / ACK 2024 / First author  
+Paper: [Malware Attacks Targeting Industrial Facilities and Response Strategies.pdf](https://github.com/user-attachments/files/20284697/Malware.Attacks.Targeting.Industrial.Facilities.and.Response.Strategies.pdf)
+
+---
 ## 💻 Project  
 ### 1.BAG: BERT-Attention GNN (KCC 2025 under review)  
 **Github: https://github.com/chan1031/BAG**    
