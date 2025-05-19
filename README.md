@@ -68,7 +68,7 @@ For real-world deployment, fast inference speed is essential. We study lightweig
 
 
 ### **[Tracking Illegal Gambling Website]** (2024.10 ~ 2025.7)  **[Selected 2025-1 SKKU CO-Deeplearning]**  
-**Github: https://github.com/skku-swlab/illegal_gambling-detector**
+**Github: https://github.com/skku-swlab/illegal_gambling-detector**  
 The operation of illegal gambling websites poses a serious threat to our society.  
 However, manually identifying and blocking these sites is highly impractical.  
 To address this challenge, our SWLab has developed an AI-powered tracking system for detecting illegal gambling websites.  
