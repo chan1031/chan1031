@@ -16,7 +16,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 
 ---
 ## 💼 Experience
-- **SWlab** (prof. Moohong Min) (https://swlab.skku.edu/sw/index.do) [2024.7 ~ Present]   
+- **swlab** (prof. Moohong Min) (https://swlab.skku.edu/sw/index.do) [2024.7 ~ Present]   
   **Undergraduate Students**  
   Research Area: AI Development, Adversarial Attack  
 - **TA**, Basic and Applications of AI  [2024.9 ~ Present]
