@@ -21,7 +21,6 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
   Research Area: AI Development, Adversarial Attack  
 - **TA**, Basic and Applications of AI  [2024.9 ~ Present]
   In the "Basic and Applications of AI" course, I covered an introduction to the Transformer architecture and its implementation in code.  
-  **Github: https://github.com/chan1031/paper-implementation**
 
 ## 🔬 Research Interest  
 I can enjoy anything about AI, CS  
