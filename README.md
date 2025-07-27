@@ -14,7 +14,7 @@ I also participating in undergraduate research student in **swlab**(Prof.Min htt
 
 ---
 ## 💼 Experience
-- **TML lab** (prof. Sangdon Park) **Research Intern** (https://sangdon.github.io/team/) [2025.6 ~ Present]   
+- **TML lab** (prof. Sangdon Park) **Research Intern** (https://sangdon.github.io/team/) [2025.7 ~ Present]   
   Research Area: Safety AI, Adversarial Attack 
 - **swlab** (prof. Moohong Min) **Undergraduate Students** (https://swlab.skku.edu/sw/index.do) [2024.7 ~ 2025.6]   
   Research Area: Safety AI, Adversarial Attack, Safety Benchmark  
