@@ -31,10 +31,9 @@ I can enjoy anything about AI, CS
 ---
 
 ## 🎓 Publication
-- BAG: A hybrid “BERT-Attention GNN“ model for Illegal Site Detection from HTML / KCC 2025
-(Under Review) / First author  
+- BAG: A hybrid “BERT-Attention GNN“ model for Illegal Site Detection from HTML / KCC 2025 / First author  
 Paper: [KCC.pdf](https://github.com/user-attachments/files/20015436/KCC.pdf)  
-- TriModal: A Multimodal Framework for Detecting Redirection to Illegal OnlineGamblingSites / DFRWS APAC 2025 (Under Review) / Second author  
+- TriModal: A Multimodal Framework for Detecting Redirection to Illegal OnlineGamblingSites / S&P 2026 (Under Review) / Second author  
 Paper:  [DFRWS APAC 2025.pdf](https://github.com/user-attachments/files/20350315/DFRWS.APAC.2025.pdf)  
 - Analysis of Deepfake Detection Models Against Deepfake Crimes / Mobisec 2024 / First author  
 Paper: [Mobisec_Analysis of Deepfake Detection Models Against Deepfake Crimes.pdf](https://github.com/user-attachments/files/20284494/Mobisec_Analysis.of.Deepfake.Detection.Models.Against.Deepfake.Crimes.pdf)  
