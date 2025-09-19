@@ -1,15 +1,10 @@
 # 👋 Hi, I'm [Sechan Lee] [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se-chan-lee-6b168b224/)  
 
 I am currently in my fourth year of undergraduate studies in Computer Education at Sungkyunkwan University.  
-I also participating in undergraduate research student in **swlab**(Prof.Min https://swlab.skku.edu/sw/index.do) for the past year.  
-### **[Paper implementation & review ](https://github.com/chan1031/paper-review)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
 ---
 
 ## 🎓 Education
-- **[BS]**, [Computer Education] (GPA: 4.43/4.5) **(Top 3%)**  
+- **[BS]**, [Computer Education] (GPA: 4.45/4.5) **(Top 3%)**  
   Sungkyunkwan University, (2024.3 ~ 2026.2)
 
 ---
