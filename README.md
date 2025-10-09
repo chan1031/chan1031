@@ -17,12 +17,9 @@ I am currently in my fourth year of undergraduate studies in Computer Education 
   In the "Basic and Applications of AI" course, I covered an introduction to the Transformer architecture and its implementation in code.  
 
 ## 🔬 Research Interest  
-I can enjoy anything about AI, CS  
-- Saftey AI
-- Adversarial Attack
-- Safety Benchmark
-- AI Kill-Switch
-
+- Agentic AI
+- TruthWorthy AI
+- 
 ---
 
 ## 🎓 Publication
