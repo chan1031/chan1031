@@ -4,7 +4,7 @@ I am currently in my fourth year of undergraduate studies in Computer Education 
 ---
 
 ## 🎓 Education
-- **[BS]**, [Computer Education] (GPA: 4.45/4.5) **(Top 3%)**  
+- **[BS]**, [Computer Education] (GPA: 4.46/4.5) **(Top 3%)**  
   Sungkyunkwan University, (2024.3 ~ 2026.2)
 
 ---
